@@ -1,0 +1,6 @@
+/Users/thomas/Projects/minesweeper-game/bin/Debug/minesweeper-game.exe
+/Users/thomas/Projects/minesweeper-game/bin/Debug/minesweeper-game.pdb
+/Users/thomas/Projects/minesweeper-game/obj/Debug/minesweeper-game.csproj.AssemblyReference.cache
+/Users/thomas/Projects/minesweeper-game/obj/Debug/minesweeper-game.csproj.CoreCompileInputs.cache
+/Users/thomas/Projects/minesweeper-game/obj/Debug/minesweeper-game.exe
+/Users/thomas/Projects/minesweeper-game/obj/Debug/minesweeper-game.pdb
